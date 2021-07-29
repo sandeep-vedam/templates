@@ -1,0 +1,7 @@
+{
+  "name": "com.metrological.app.myawesomeapp",
+  "description": "BasicApp",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.5.0"
+  }
+}
