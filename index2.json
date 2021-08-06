@@ -1,0 +1,7 @@
+{
+  "templates":  
+	[
+	  { "name": "Basic", "description": "Basic", "path": "https://github.com/sandeep-vedam/Basic"},
+	]
+
+}
