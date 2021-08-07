@@ -1,9 +1,19 @@
 {
-  "templates":
-	[
-	  { "name": "Basic", "description": "Basic", "path": ""},
-	  { "name": "Router", "description": "Router", "path": "https://github.com/sandeep-vedam/Router"},
-	  { "name": "Widget", "description": "Widget", "path": "git@github.com:sandeep-vedam/Widgets.git"}
-	]
-
+   "templates":[
+      {
+         "name":"Basic",
+         "description":"Basic",
+         "path":""
+      },
+      {
+         "name":"Router",
+         "description":"Router",
+         "path":"https://github.com/sandeep-vedam/Router"
+      },
+      {
+         "name":"Widget",
+         "description":"Widget",
+         "path":"git@github.com:sandeep-vedam/Widgets.git"
+      }
+   ]
 }
