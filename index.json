@@ -9,12 +9,12 @@
          "name":"Router",
          "description":"Router",
          "repo":"https://github.com/sandeep-vedam/",
-	      "folderPath": "Widgets"
+	 "folderPath": "Widgets"
       },
       {
          "name":"Widget",
          "description":"Widget",
-         "path":"https://github.com/sandeep-vedam/templates"
+         "repo":"https://github.com/sandeep-vedam/templates"
       }
    ]
 }
