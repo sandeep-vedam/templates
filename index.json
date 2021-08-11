@@ -3,18 +3,18 @@
       {
          "name":"Basic",
          "description":"Basic",
-         "repo":""
-      },
-      {
-         "name":"Widgets",
-         "description":"Router",
-         "repo":"https://github.com/sandeep-vedam/Widgets"
+         "repo": "", // optional (only if remote repository)
       },
       {
          "name":"Router",
-         "description":"Router Template",
-         "repo":"https://github.com/sandeep-vedam/templates",
-	 "folderName": "Router"
+         "description":"Router",
+         "path":"Router"
+      },
+      {
+         "name":"Widget",
+         "description":"Widget Template",
+         "repo":"https://github.com/sandeep-vedam/Widgets", // optional (only if remote repository)
+	 "path": "Router" // required
       }
    ]
 }
