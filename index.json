@@ -3,7 +3,7 @@
       {
          "name":"Basic",
          "description":"Basic",
-         "repo": "", // optional (only if remote repository)
+         "repo": "", 
       },
       {
          "name":"Router",
@@ -13,8 +13,8 @@
       {
          "name":"Widget",
          "description":"Widget Template",
-         "repo":"https://github.com/sandeep-vedam/Widgets", // optional (only if remote repository)
-	 "path": "Router" // required
+         "repo":"https://github.com/sandeep-vedam/Widgets",
+	 "path": "Router"
       }
    ]
 }
