@@ -6,15 +6,15 @@
          "path":""
       },
       {
-         "name":"Router",
+         "name":"Widgets",
          "description":"Router",
-         "repo":"https://github.com/sandeep-vedam/",
-	 "folderPath": "Widgets"
+         "repo":"https://github.com/sandeep-vedam/Widgets"
       },
       {
-         "name":"Widget",
-         "description":"Widget",
-         "repo":"https://github.com/sandeep-vedam/templates"
+         "name":"Router",
+         "description":"Router Template",
+         "repo":"https://github.com/sandeep-vedam/templates",
+	 "folderPath": "Router"
       }
    ]
 }
