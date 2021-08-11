@@ -14,7 +14,7 @@
          "name":"Router",
          "description":"Router Template",
          "repo":"https://github.com/sandeep-vedam/templates",
-	 "folderPath": "Router"
+	 "folderName": "Router"
       }
    ]
 }
