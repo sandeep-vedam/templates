@@ -14,7 +14,7 @@
          "name":"Widget",
          "description":"Widget Template",
          "repo":"https://github.com/sandeep-vedam/Widgets",
-	 "path": "Router"
+	 "path": "Widgets"
       }
    ]
 }
