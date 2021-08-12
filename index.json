@@ -3,7 +3,7 @@
       {
          "name":"Basic",
          "description":"Basic",
-         "repo": ""
+         "path": "Basic"
       },
       {
          "name":"Router",
