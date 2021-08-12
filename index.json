@@ -11,10 +11,15 @@
          "path":"Router"
       },
       {
-         "name":"Widget",
-         "description":"Widget Template",
-         "repo":"https://github.com/sandeep-vedam/Widgets",
-	 "path": "Widgets"
+         "name":"Widgets",
+         "description":"Widgets",
+         "path":"Router"
+      },
+      {
+         "name":"Widget2",
+         "description":"Widget2 Template",
+         "repo":"https://github.com/sandeep-vedam/Widgets2",
+	 "path": "Widgets2"
       }
    ]
 }
