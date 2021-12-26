@@ -1,5 +1,5 @@
 {
-  "name": "com.metrological.app.myawesomeapp",
+  "name": "com.metrological.app.routerapp",
   "description": "RouterApp",
   "dependencies": {
     "@lightningjs/sdk": "^4.5.0"
