@@ -1,6 +1,6 @@
 {
-  "name": "My Awesome App",
-  "identifier": "com.metrological.app.myawesomeapp",
+  "name": "Router App",
+  "identifier": "com.metrological.app.routerapp",
   "version": "1.0.0",
   "icon": "./static/icon.png"
 }
